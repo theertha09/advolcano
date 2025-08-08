@@ -11,6 +11,9 @@ from sendgrid.helpers.mail import Mail
 # === API KEYS & CONFIG ===
 RAZORPAY_KEY_ID = 'rzp_test_tgfXXfzhjjdkYx'
 RAZORPAY_KEY_SECRET = '13z5OpJYPLgLhI0CHyMR6Fu9'
+FIXER_API_KEY = '8478778667a153023b872ada0ae4d107'
+RAZORPAY_KEY_ID = 'rzp_test_tgfXXfzhjjdkYx'
+RAZORPAY_KEY_SECRET = '13z5OpJYPLgLhI0CHyMR6Fu9'
 ADMIN_EMAIL = "theerthakk467@gmail.com"               # ✅ Set admin recipient
 FROM_EMAIL = "noreply@advolcano.io"              # ✅ Must be verified in SendGrid
 
@@ -25,7 +28,6 @@ logging.basicConfig(
 class PaymentSerializer(serializers.Serializer):
     name = serializers.CharField(max_length=255)
     email = serializers.EmailField()
-    phone_number = serializers.CharField(max_length=15)
     amount_usd = serializers.FloatField(min_value=0.01)
     amount_inr = serializers.FloatField(min_value=0.01)
     commission = serializers.FloatField(min_value=0.0)
@@ -52,7 +54,6 @@ class CreatePaymentAPIView(APIView):
                 "notes": {
                     "name": data['name'],
                     "email": data['email'],
-                    "phone": data['phone_number'],
                     "amount_usd": str(data['amount_usd']),
                     "amount_inr": str(data['amount_inr']),
                     "commission": str(data['commission']),
@@ -64,45 +65,45 @@ class CreatePaymentAPIView(APIView):
             order = client.order.create(data=order_data)
 
             logging.info(f"Order created: name={data['name']} email={data['email']} "
-                         f"phone={data['phone_number']} USD={data['amount_usd']} "
-                         f"INR={data['amount_inr']} Commission={data['commission']} "
-                         f"GST={data['gst']} Total={data['total_amount']} OrderID={order.get('id')}")
+             f"USD={data['amount_usd']} INR={data['amount_inr']} "
+             f"Commission={data['commission']} GST={data['gst']} "
+             f"Total={data['total_amount']} OrderID={order.get('id')}")
 
             # === Send Professional Confirmation Email ===
-            subject = "Payment Initiated – Order Confirmation"
+            subject = f"Payment in advolcano.io (Order ID : {order.get('id')}) State: Payment Initiated"
 
             email_body = f"""
-Dear {data['name']},
+Hello,
 
-Thank you for initiating your payment with us. We’ve successfully created your order with the following details:
+You have a new payment order created in advolcano.io.
+
+--------------------------------------------------------
+Order Details
+--------------------------------------------------------
+Shop            : advolcano.io
+Order ID        : {order.get('id')}
+Amount          : INR {data['total_amount']:.2f}
 
 --------------------------------------------------------
 Payment Summary
 --------------------------------------------------------
-• Name             : {data['name']}
-• Email            : {data['email']}
-• Phone Number     : {data['phone_number']}
+Advolcano Name  : {data['name']}
+Advolcano Email : {data['email']}
 
-• Amount (USD)     : ${data['amount_usd']:.2f}
-• Amount (INR)     : ₹{data['amount_inr']:.2f}
-• Commission Fee   : ₹{data['commission']:.2f}
-• GST              : ₹{data['gst']:.2f}
-• Total Amount     : ₹{data['total_amount']:.2f}
-• Razorpay Order ID: {order.get('id')}
+Amount (USD)    : ${data['amount_usd']:.2f}
+Amount (INR)    : ₹{data['amount_inr']:.2f}
+Platform Fee    : ₹{data['commission']:.2f}
+TAX             : ₹{data['gst']:.2f}
+Total Amount    : ₹{data['total_amount']:.2f}
+
 --------------------------------------------------------
 
-What’s Next?
-Please proceed to complete your payment using the Razorpay interface. This confirmation ensures your order is recorded and being processed securely.
-
-If you have any questions or concerns, feel free to reach out to us at support@advolcano.io.
-
-Best regards,  
-The AdVolcano Payments Team  
-noreply@advolcano.io
+Best regards,
+Advolcano.io Payments Team
 """
 
             message = Mail(
-                from_email='noreply@advolcano.io',
+                from_email=FROM_EMAIL,
                 to_emails=data['email'],
                 subject=subject,
                 plain_text_content=email_body

@@ -141,6 +141,7 @@ USE_TZ = True
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",      # your React/Vue/Next.js dev server
     "https://yourfrontend.com",   # your live frontend
+    "https://advolcano.vercel.app",
 ]
 
 # Static files (CSS, JavaScript, Images)

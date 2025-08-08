@@ -13,6 +13,11 @@ https://docs.djangoproject.com/en/5.2/ref/settings/
 from pathlib import Path
 import os
 from pathlib import Path
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -84,8 +89,12 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'payments.wsgi.application'
 
-RAZORPAY_KEY_ID = 'rzp_test_tgfXXfzhjjdkYx'
-RAZORPAY_KEY_SECRET = '13z5OpJYPLgLhI0CHyMR6Fu9'
+SENDGRID_API_KEY = os.getenv("SENDGRID_API_KEY")
+RAZORPAY_KEY_ID = os.getenv("RAZORPAY_KEY_ID")
+RAZORPAY_KEY_SECRET = os.getenv("RAZORPAY_KEY_SECRET")
+FIXER_API_KEY = os.getenv("FIXER_API_KEY")
+ADMIN_EMAIL = os.getenv("ADMIN_EMAIL")
+FROM_EMAIL = os.getenv("FROM_EMAIL")
 
 
 # Database

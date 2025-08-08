@@ -5,8 +5,8 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 
     # Razorpay endpoints
-    path('api/payments/', include('payments_razorpay.urls')),
+    path('api/', include('payments_razorpay.urls')),
 
     # Demo request/mail endpoints
-    path('api/demo/', include('demo.urls')),
+    path('api/', include('demo.urls')),
 ]

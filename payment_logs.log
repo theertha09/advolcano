@@ -1,0 +1,495 @@
+2025-08-07 21:31:17,193 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-07 21:31:34,243 WARNING Bad Request: /api/api/create-payment/
+2025-08-07 21:32:12,901 INFO Payment initiated: name=theertha email=theerth456@gmail.com phone=7560822172 USD=200.0 ExchangeRate=87.75 INR=17550.00 Commission=526.50 OrderID=order_R2VGbnBX7EY72t
+2025-08-07 21:34:26,965 INFO Payment initiated: name=theertha email=theerth456@gmail.com phone=7560822172 USD=2.0 ExchangeRate=87.75 INR=175.50 Commission=5.26 OrderID=order_R2VIyUZV9AYkCC
+2025-08-07 21:37:20,900 WARNING Not Found: /api/verify-payment/
+2025-08-07 21:37:27,799 WARNING Method Not Allowed: /api/api/verify-payment/
+2025-08-07 21:39:18,802 INFO Payment initiated: name=theertha email=theerth456@gmail.com phone=7560822172 USD=2.0 ExchangeRate=87.75 INR=175.50 Commission=5.26 OrderID=order_R2VO6avbvfmi49
+2025-08-07 21:48:28,385 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-07 21:49:19,263 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-07 21:49:34,655 INFO Payment initiated: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=2.0 ExchangeRate=87.75 INR=175.50 Commission=5.26 OrderID=order_R2VYwlEHjiOl1S
+2025-08-07 21:49:36,698 ERROR Failed to send email to theerthakk467@gmail.com: HTTP Error 400: Bad Request
+2025-08-07 21:51:53,588 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-07 21:52:03,178 INFO Payment initiated: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=2.0 ExchangeRate=87.75 INR=175.50 Commission=5.26 OrderID=order_R2VbYvfgerkEGy
+2025-08-07 21:52:04,521 INFO Confirmation email sent to theerthakk467@gmail.com, status=202
+2025-08-07 22:53:37,651 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-07 22:53:43,235 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-07 23:03:08,490 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-07 23:05:59,980 WARNING Not Found: /api/api/create-payment/
+2025-08-07 23:06:13,839 INFO Payment initiated: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=2.0 ExchangeRate=87.75 INR=175.50 Commission=5.26 OrderID=order_R2WrvyeCHH3k4g
+2025-08-07 23:06:15,084 INFO Confirmation email sent to theerthakk467@gmail.com, status=202
+2025-08-08 09:53:19,123 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\settings.py changed, reloading.
+2025-08-08 09:57:04,343 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\urls.py changed, reloading.
+2025-08-08 09:57:08,414 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\urls.py changed, reloading.
+2025-08-08 09:57:11,737 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\urls.py changed, reloading.
+2025-08-08 09:57:35,911 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 09:57:39,135 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 09:57:50,723 WARNING Not Found: /api/request-demo/
+2025-08-08 09:57:58,737 WARNING Not Found: /api/api/request-demo/
+2025-08-08 09:58:08,539 WARNING Not Found: /api/request-demo/
+2025-08-08 09:59:11,956 WARNING Not Found: /api/request-demo/
+2025-08-08 09:59:23,681 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\urls.py changed, reloading.
+2025-08-08 09:59:25,656 WARNING Not Found: /api/request-demo/
+2025-08-08 09:59:29,920 WARNING Not Found: /api/api/request-demo/
+2025-08-08 09:59:42,727 WARNING Not Found: /
+2025-08-08 09:59:43,293 WARNING Not Found: /favicon.ico
+2025-08-08 09:59:49,039 WARNING Not Found: /api/
+2025-08-08 10:01:32,489 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\urls.py changed, reloading.
+2025-08-08 10:01:32,944 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\urls.py changed, reloading.
+2025-08-08 10:01:45,015 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\urls.py changed, reloading.
+2025-08-08 10:01:45,618 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\urls.py changed, reloading.
+2025-08-08 10:01:57,653 WARNING Bad Request: /api/demo/request-demo/
+2025-08-08 10:02:28,365 INFO New demo request: interest=Advertising Campaign, name=Alice Smith, email=alice@example.com, company=AliceCo, message=I’d like to discuss targeting options.
+2025-08-08 10:03:15,940 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:03:16,285 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:03:32,659 INFO New demo request: interest=Advertising Campaign, name=Alice Smith, email=theerthakk467@gmail.com, company=AliceCo, message=I’d like to discuss targeting options.
+2025-08-08 10:05:45,020 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:05:45,422 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:05:52,252 INFO New demo request: interest=Advertising Campaign, name=Alice Smith, email=theerthakk467@gmail.com, company=AliceCo, message=I’d like to discuss targeting options.
+2025-08-08 10:05:53,437 INFO Admin notified of demo request via email with status code 202
+2025-08-08 10:06:20,939 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:06:21,454 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:06:26,738 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:06:26,766 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:06:31,262 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:06:32,109 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:06:34,729 INFO New demo request: interest=Advertising Campaign, name=Alice Smith, email=theerthakk467@gmail.com, company=AliceCo, message=I’d like to discuss targeting options.
+2025-08-08 10:06:35,220 ERROR Failed to notify admin via email: HTTP Error 403: Forbidden
+2025-08-08 10:06:58,062 WARNING Not Found: /api/send-demo-mail/
+2025-08-08 10:07:21,345 INFO Demo mail sent to theerthakk467@gmail.com with status code 202
+2025-08-08 10:08:44,115 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:08:44,447 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:08:54,890 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\urls.py changed, reloading.
+2025-08-08 10:08:55,492 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\urls.py changed, reloading.
+2025-08-08 10:09:18,599 WARNING Not Found: /api/request-demo/
+2025-08-08 10:09:26,096 INFO Demo Request: interest=Advertising Campaign, full_name=Alice Smith, email=theerthakk467@gmail.com, company=AliceCo, message=I’d like to discuss targeting options.
+2025-08-08 10:09:26,763 INFO Admin notified of demo request via email: 202
+2025-08-08 10:09:46,624 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:09:47,293 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:09:52,029 INFO Demo Request: interest=Advertising Campaign, full_name=Alice Smith, email=theerthakk467@gmail.com, company=AliceCo, message=I’d like to discuss targeting options.
+2025-08-08 10:09:52,312 INFO Admin notified of demo request via email: 202
+2025-08-08 10:11:23,277 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:11:23,309 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:11:33,008 INFO Demo Request: interest=Advertising Campaign, full_name=Alice Smith, email=theerthakk467@gmail.com, company=AliceCo, message=I’d like to discuss targeting options.
+2025-08-08 10:11:34,149 INFO Admin notified of demo request via email. SendGrid status: 202
+2025-08-08 10:17:02,367 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:17:02,946 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:17:12,057 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-08 10:17:13,059 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-08 10:17:22,036 WARNING Not Found: /api/create-payment/
+2025-08-08 10:17:25,939 WARNING Not Found: /api/create-payment/
+2025-08-08 10:17:34,260 WARNING Not Found: /api/payments/
+2025-08-08 10:17:39,943 WARNING Bad Request: /api/payments/create-payment/
+2025-08-08 10:19:48,499 WARNING Bad Request: /api/payments/create-payment/
+2025-08-08 10:20:01,230 ERROR Failed to fetch exchange rate: 400 Client Error: Bad Request for url: http://data.fixer.io/api/latest?access_key=8478778667a153023b872ada0ae4d107&symbols=INR&base=USD
+2025-08-08 10:20:01,232 ERROR Internal Server Error: /api/payments/create-payment/
+2025-08-08 10:21:13,955 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:21:14,081 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:21:31,578 INFO Fetched real-time USD\u2192INR via EUR base: EUR\u2192USD=1.1661, EUR\u2192INR=102.1626, USD\u2192INR=87.6116
+2025-08-08 10:21:33,946 INFO Payment initiated: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=200.0 ExchangeRate=87.6116 INR=17522.32 Commission=525.67 OrderID=order_R2iNKlQJybca0U
+2025-08-08 10:21:35,236 INFO Confirmation email sent to theerthakk467@gmail.com, status=202
+2025-08-08 10:32:55,978 INFO Fetched real-time USD\u2192INR via EUR base: EUR\u2192USD=1.1661, EUR\u2192INR=102.1626, USD\u2192INR=87.6116
+2025-08-08 10:32:57,700 INFO Payment initiated: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=200.0 ExchangeRate=87.6116 INR=17522.32 Commission=525.67 OrderID=order_R2iZN4Y85Vd6t0
+2025-08-08 10:32:59,236 INFO Confirmation email sent to theerthakk467@gmail.com, status=202
+2025-08-08 10:40:08,859 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:40:09,725 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:42:40,295 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:42:41,409 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:44:13,004 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:44:13,154 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:44:25,756 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:44:26,512 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:44:58,324 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:44:58,483 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:45:11,546 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:45:12,186 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:45:57,564 WARNING Bad Request: /api/payments/create-payment/
+2025-08-08 10:46:05,681 INFO Order created: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=200.0 INR=1233.0 Commission=1.0 GST=12.0 Total=1234.0 OrderID=order_R2inFPrQ4zCDG6
+2025-08-08 10:46:06,754 INFO Confirmation email sent to theerthakk467@gmail.com
+2025-08-08 10:47:02,286 INFO Order created: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=200.0 INR=1233.0 Commission=1.0 GST=12.0 Total=1234.0 OrderID=order_R2ioF7TtWsoofA
+2025-08-08 10:47:02,834 INFO Confirmation email sent to theerthakk467@gmail.com
+2025-08-08 10:55:49,047 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:55:49,483 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:56:14,349 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:56:14,512 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:56:20,344 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:56:20,662 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 10:56:55,517 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:56:55,568 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:59:11,316 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 10:59:12,030 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 11:01:38,067 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:01:38,186 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:02:45,729 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:02:46,326 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:03:03,997 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:03:04,021 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:03:18,575 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-08 11:03:18,698 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-08 11:03:23,970 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-08 11:03:27,399 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-08 11:03:28,014 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-08 11:03:34,093 WARNING \u26a0\ufe0f Missing payment verification parameters
+2025-08-08 11:03:34,095 WARNING Bad Request: /api/payments/payment/verify/
+2025-08-08 11:03:39,840 WARNING Method Not Allowed: /api/payments/payment/verify/
+2025-08-08 11:04:18,768 ERROR \u274c Signature verification failed: Razorpay Signature Verification Failed
+2025-08-08 11:04:18,768 WARNING Bad Request: /api/payments/payment/verify/
+2025-08-08 11:04:41,609 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:04:41,898 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:04:49,058 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:04:49,720 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:04:54,115 ERROR \u274c Signature verification failed: Razorpay Signature Verification Failed
+2025-08-08 11:04:54,119 WARNING Bad Request: /api/payments/payment/verify/
+2025-08-08 11:06:20,590 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:06:20,953 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:06:41,631 ERROR \u274c Signature verification failed: Razorpay Signature Verification Failed
+2025-08-08 11:06:41,636 WARNING Bad Request: /api/payments/payment/verify/
+2025-08-08 11:10:03,869 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:10:04,449 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:10:19,611 INFO Order created: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=200.0 INR=1233.0 Commission=1.0 GST=12.0 Total=1234.0 OrderID=order_R2jCqXK1HPgRmB
+2025-08-08 11:10:20,832 INFO Confirmation email sent to theerthakk467@gmail.com
+2025-08-08 11:12:12,113 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:12:13,175 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:12:31,871 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:12:32,712 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:12:36,628 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:12:53,856 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 11:12:54,729 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 11:13:14,471 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 11:13:14,841 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 11:13:26,243 INFO Order created: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=200.0 INR=1233.0 Commission=1.0 GST=12.0 Total=1234.0 OrderID=order_R2jG8HJxXqXhJx
+2025-08-08 11:13:27,112 INFO Confirmation email sent to theerthakk467@gmail.com
+2025-08-08 11:18:36,666 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:18:37,066 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:19:04,526 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:19:05,190 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:20:20,536 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 11:20:21,288 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 11:22:45,594 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:23:17,494 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:23:18,058 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:23:37,493 INFO Order created: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=200.0 INR=1233.0 Commission=1.0 GST=12.0 Total=1234.0 OrderID=order_R2jQtW5U6Y6ohV
+2025-08-08 11:23:38,724 INFO Professional confirmation email sent to theerthakk467@gmail.com
+2025-08-08 11:34:01,635 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:34:01,707 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:35:35,471 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:35:36,002 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:37:05,813 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:37:05,985 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 11:37:24,206 INFO Order created: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=200.0 INR=1233.0 Commission=1.0 GST=12.0 Total=1234.0 OrderID=order_R2jfRvla4GdTmw
+2025-08-08 11:37:25,349 INFO Professional confirmation email sent to theerthakk467@gmail.com
+2025-08-08 12:14:53,503 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 12:15:05,847 INFO Order created: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=200.0 INR=1233.0 Commission=1.0 GST=12.0 Total=1234.0 OrderID=order_R2kJGgdxDqpdW3
+2025-08-08 12:15:06,884 INFO Professional confirmation email sent to theerthakk467@gmail.com
+2025-08-08 12:57:10,407 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\settings.py changed, reloading.
+2025-08-08 12:57:10,831 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\settings.py changed, reloading.
+2025-08-08 12:57:47,514 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\settings.py changed, reloading.
+2025-08-08 12:57:55,590 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\settings.py changed, reloading.
+2025-08-08 12:58:04,428 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\settings.py changed, reloading.
+2025-08-08 12:58:07,624 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\settings.py changed, reloading.
+2025-08-08 12:58:16,750 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\settings.py changed, reloading.
+2025-08-08 13:05:27,759 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:07:50,709 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:08:17,607 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:08:18,005 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:08:50,081 INFO Order created: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=200.0 INR=1233.0 Commission=1.0 GST=12.0 Total=1234.0 OrderID=order_R2lE26UIQgd3ih
+2025-08-08 13:08:50,083 ERROR Failed to send email: name 'SENDGRID_API_KEY' is not defined
+2025-08-08 13:09:08,654 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:09:08,873 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:09:24,193 INFO Order created: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=200.0 INR=1233.0 Commission=1.0 GST=12.0 Total=1234.0 OrderID=order_R2lEdEybyGUYGy
+2025-08-08 13:09:25,293 INFO Professional confirmation email sent to theerthakk467@gmail.com
+2025-08-08 13:10:18,777 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:10:19,100 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:10:42,172 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:10:42,686 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:10:49,223 INFO Order created: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=200.0 INR=1233.0 Commission=1.0 GST=12.0 Total=1234.0 OrderID=order_R2lG89qabXdOw0
+2025-08-08 13:10:49,987 INFO Confirmation email sent to theerthakk467@gmail.com
+2025-08-08 13:13:59,751 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:14:00,384 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:14:05,694 INFO Order created: name=theertha email=theerthakk467@gmail.com phone=7560822172 USD=200.0 INR=1233.0 Commission=1.0 GST=12.0 Total=1234.0 OrderID=order_R2lJabTbizmKef
+2025-08-08 13:14:06,224 INFO Confirmation email sent to theerthakk467@gmail.com
+2025-08-08 13:14:36,848 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:14:37,458 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:15:01,278 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:15:01,647 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:15:06,971 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:15:06,974 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:15:46,314 WARNING Bad Request: /api/payments/create-payment/
+2025-08-08 13:15:53,066 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:15:53,124 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:16:00,051 INFO Order created: name=theertha email=theerthakk467@gmail.com USD=200.0 INR=1233.0 Commission=1.0 GST=12.0 Total=1234.0 OrderID=order_R2lLbRTKpHEKZd
+2025-08-08 13:16:00,913 INFO Confirmation email sent to theerthakk467@gmail.com
+2025-08-08 13:19:09,692 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 13:19:10,417 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 13:20:07,115 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\urls.py changed, reloading.
+2025-08-08 13:20:07,609 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\urls.py changed, reloading.
+2025-08-08 13:20:12,244 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\urls.py changed, reloading.
+2025-08-08 13:20:12,824 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\urls.py changed, reloading.
+2025-08-08 13:20:23,289 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\urls.py changed, reloading.
+2025-08-08 13:20:23,550 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\urls.py changed, reloading.
+2025-08-08 13:20:29,085 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\urls.py changed, reloading.
+2025-08-08 13:20:29,101 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\urls.py changed, reloading.
+2025-08-08 13:20:33,301 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\urls.py changed, reloading.
+2025-08-08 13:20:33,437 INFO C:\Users\theer\Documents\GitHub\advolcano\payments\urls.py changed, reloading.
+2025-08-08 13:20:41,605 WARNING Bad Request: /api/request-demo/
+2025-08-08 13:21:46,525 INFO Demo Request: interest=Advertising Campaign, full_name=Alice Smith, email=alice@example.com, company=AliceCo, message=I’d like to discuss targeting options.
+2025-08-08 13:21:53,502 INFO Admin notified of demo request via email. SendGrid status: 202
+2025-08-08 13:23:49,997 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 13:23:50,129 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 13:23:59,810 INFO Demo request from alice@example.com
+2025-08-08 13:24:00,625 INFO Email sent successfully. Status: 202
+2025-08-08 13:24:16,160 INFO Demo request from alice@example.com
+2025-08-08 13:24:16,688 INFO Email sent successfully. Status: 202
+2025-08-08 13:25:21,718 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 13:25:21,958 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 13:25:33,555 INFO Demo request from alice@example.com
+2025-08-08 13:25:34,342 INFO Email sent successfully. Status: 202
+2025-08-08 13:27:33,136 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:27:33,866 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:31:51,619 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:31:52,062 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:52:37,955 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:52:38,296 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:52:46,670 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:52:46,722 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:53:02,444 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-08 13:53:02,863 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-08 13:53:07,443 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-08 13:53:08,296 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-08 13:54:16,011 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:54:16,417 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:54:30,033 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:54:30,555 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:55:08,976 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:55:08,982 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:55:33,097 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-08 13:55:33,238 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\urls.py changed, reloading.
+2025-08-08 13:55:38,888 WARNING Not Found: /api/all-payments/
+2025-08-08 13:55:48,883 WARNING Method Not Allowed: /api/payment/verify/
+2025-08-08 13:55:56,391 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:55:56,707 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:56:02,659 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:56:02,995 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:56:12,713 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 13:56:13,249 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 14:56:39,204 INFO Demo request from alice@example.com
+2025-08-08 14:56:42,115 INFO Email sent successfully. Status: 202
+2025-08-08 14:58:55,877 INFO Demo request from alice@example.com
+2025-08-08 14:58:56,569 INFO Email sent successfully. Status: 202
+2025-08-08 15:00:11,933 INFO Demo request from alice@example.com
+2025-08-08 15:00:13,032 INFO Email sent successfully. Status: 202
+2025-08-08 15:03:30,277 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 15:03:30,277 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 15:03:35,889 INFO Demo request from alice@example.com
+2025-08-08 15:03:38,173 INFO Email sent successfully. Status: 202
+2025-08-08 15:50:11,672 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 15:50:12,712 INFO \U0001f4e7 Admin email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 15:53:09,647 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 15:53:33,907 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 15:53:49,024 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 15:54:06,680 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 15:54:32,766 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 15:55:32,476 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 15:55:44,048 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 15:55:50,231 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 15:55:51,311 INFO \U0001f4e7 Admin email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 15:58:26,400 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 15:58:35,692 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 15:58:39,599 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 15:58:40,734 INFO \u2705 Admin email sent successfully - Type: payment_verified, Status Code: 202
+2025-08-08 15:58:40,734 INFO \U0001f4e7 \u2705 Admin success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:09:30,300 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 16:09:41,487 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 16:09:44,175 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 16:09:45,244 INFO \u2705 Admin email sent successfully - Type: payment_verified, Status Code: 202
+2025-08-08 16:09:45,244 INFO \U0001f4e7 \u2705 Admin success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:10:32,524 WARNING Bad Request: /api/create-payment/
+2025-08-08 16:10:38,458 INFO Order created: name=theertha email=theerthakk467@gmail.com USD=200.0 INR=1233.0 Commission=1.0 GST=12.0 Total=1234.0 OrderID=order_R2oK50DTnS21BP
+2025-08-08 16:10:39,086 INFO Confirmation email sent to theerthakk467@gmail.com
+2025-08-08 16:10:39,676 INFO \u2705 Admin email sent successfully - Type: payment_created, Status Code: 202
+2025-08-08 16:11:30,054 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 16:11:41,805 WARNING \u26a0\ufe0f Missing payment verification parameters
+2025-08-08 16:11:41,806 WARNING Bad Request: /api/payment/verify/
+2025-08-08 16:11:45,696 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 16:11:48,014 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 16:11:48,582 INFO \u2705 Admin email sent successfully - Type: payment_verified, Status Code: 202
+2025-08-08 16:11:48,582 INFO \U0001f4e7 \u2705 Admin success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:19:48,604 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 16:20:02,082 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 16:20:04,717 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 16:20:05,880 INFO \u2705 Admin email sent successfully - Type: payment_verified, Status Code: 202
+2025-08-08 16:20:06,168 INFO \u2705 User success email sent to basilsabu268@gmail.com - Status Code: 202
+2025-08-08 16:20:06,168 INFO \U0001f4e7 \u2705 Admin success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:20:06,168 INFO \U0001f4e7 \u2705 User success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:25:52,018 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 16:25:54,215 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 16:25:55,026 INFO \u2705 Admin email sent successfully - Type: payment_verified, Status Code: 202
+2025-08-08 16:25:55,359 INFO \u2705 User success email sent to basilsabu268@gmail.com - Status Code: 202
+2025-08-08 16:25:55,359 INFO \U0001f4e7 \u2705 Admin success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:25:55,359 INFO \U0001f4e7 \u2705 User success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:28:04,570 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 16:28:13,151 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 16:28:18,972 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 16:28:40,843 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 16:28:42,712 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 16:28:43,891 INFO \u2705 Admin email sent successfully - Type: payment_verified, Status Code: 202
+2025-08-08 16:28:44,894 INFO \u2705 User success email sent to basilsabu268@gmail.com - Status Code: 202
+2025-08-08 16:28:44,895 INFO \U0001f4e7 \u2705 Admin success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:28:44,895 INFO \U0001f4e7 \u2705 User success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:34:22,995 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 16:34:33,963 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 16:34:37,317 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 16:34:38,340 INFO \u2705 Admin email sent successfully - Type: payment_verified, Status Code: 202
+2025-08-08 16:34:38,857 INFO \u2705 User success email sent to basilsabu268@gmail.com - Status Code: 202
+2025-08-08 16:34:38,857 INFO \U0001f4e7 \u2705 Admin success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:34:38,857 INFO \U0001f4e7 \u2705 User success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:36:43,674 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 16:36:48,814 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 16:36:50,621 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 16:36:51,319 INFO \u2705 Admin email sent successfully - Type: payment_verified, Status Code: 202
+2025-08-08 16:36:51,835 INFO \u2705 User success email sent to basilsabu268@gmail.com - Status Code: 202
+2025-08-08 16:36:51,835 INFO \U0001f4e7 \u2705 Admin success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:36:51,835 INFO \U0001f4e7 \u2705 User success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:37:23,857 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 16:38:19,163 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 16:38:23,837 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 16:38:27,982 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 16:38:29,682 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 16:38:30,431 INFO \u2705 Admin email sent successfully - Type: payment_verified, Status Code: 202
+2025-08-08 16:38:30,687 INFO \u2705 User success email sent to basilsabu268@gmail.com - Status Code: 202
+2025-08-08 16:38:30,687 INFO \U0001f4e7 \u2705 Admin success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:38:30,687 INFO \U0001f4e7 \u2705 User success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:41:07,304 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 16:41:09,322 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 16:41:10,077 INFO \u2705 Admin email sent successfully - Type: payment_verified, Status Code: 202
+2025-08-08 16:41:10,647 INFO \u2705 User success email sent to basilsabu268@gmail.com - Status Code: 202
+2025-08-08 16:41:10,648 INFO \U0001f4e7 \u2705 Admin success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 16:41:10,648 INFO \U0001f4e7 \u2705 User success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 17:00:58,312 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 17:01:07,476 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 17:01:10,195 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 17:01:11,120 INFO \u2705 Admin email sent successfully - Type: payment_verified, Status Code: 202
+2025-08-08 17:01:11,377 INFO \u2705 User success email sent to basilsabu268@gmail.com - Status Code: 202
+2025-08-08 17:01:11,377 INFO \U0001f4e7 \u2705 Admin success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 17:01:11,377 INFO \U0001f4e7 \u2705 User success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 17:02:04,417 ERROR \u274c Signature verification failed: Razorpay Signature Verification Failed
+2025-08-08 17:02:04,429 WARNING Bad Request: /api/payment/verify/
+2025-08-08 17:30:56,182 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 17:31:10,063 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 17:31:23,286 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 17:31:27,287 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 17:31:28,338 INFO \u2705 Admin email sent successfully - Type: payment_verified, Status Code: 202
+2025-08-08 17:31:28,988 INFO \u2705 User success email sent to basilsabu268@gmail.com - Status Code: 202
+2025-08-08 17:31:28,988 INFO \U0001f4e7 \u2705 Admin success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 17:31:28,988 INFO \U0001f4e7 \u2705 User success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 17:31:33,987 WARNING Bad Request: /api/create-payment/
+2025-08-08 17:31:38,781 WARNING Bad Request: /api/create-payment/
+2025-08-08 17:32:19,982 INFO Order created: name=theertha email=anju@gmail.com USD=200.0 INR=233.0 Commission=2.0 GST=233.0 Total=455.0 OrderID=order_R2piNKvac5CDUj
+2025-08-08 17:32:19,984 ERROR Failed to send customer email: 'email'
+2025-08-08 17:32:20,617 INFO \u2705 Admin email sent successfully - Type: payment_created, Status Code: 202
+2025-08-08 17:33:17,537 WARNING Bad Request: /api/request-demo/
+2025-08-08 17:33:41,607 INFO Demo request from alice@example.com
+2025-08-08 17:33:47,029 ERROR Background email sending failed: HTTP Error 403: Forbidden
+2025-08-08 17:34:12,102 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 17:34:17,427 INFO Demo request from alice@example.com
+2025-08-08 17:34:18,279 ERROR Background email sending failed: HTTP Error 403: Forbidden
+2025-08-08 17:35:23,257 INFO Demo request from alice@gmail.com
+2025-08-08 17:35:23,855 ERROR Background email sending failed: HTTP Error 403: Forbidden
+2025-08-08 17:35:25,803 INFO Demo request from alice@gmail.com
+2025-08-08 17:35:26,118 ERROR Background email sending failed: HTTP Error 403: Forbidden
+2025-08-08 17:36:50,899 INFO Demo request from alice@gmail.com
+2025-08-08 17:36:54,440 ERROR Background email sending failed: HTTP Error 401: Unauthorized
+2025-08-08 17:37:28,660 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 17:37:38,457 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 17:37:44,005 INFO Demo request from alice@gmail.com
+2025-08-08 17:37:44,556 ERROR Background email sending failed: HTTP Error 401: Unauthorized
+2025-08-08 17:38:11,308 WARNING \u26a0\ufe0f Missing payment verification parameters
+2025-08-08 17:38:11,309 WARNING Bad Request: /api/payment/verify/
+2025-08-08 17:38:17,902 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 17:38:19,976 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 17:38:20,519 ERROR \u274c Failed to send admin email (payment_verified): HTTP Error 403: Forbidden
+2025-08-08 17:38:20,798 ERROR \u274c Failed to send user success email: HTTP Error 401: Unauthorized
+2025-08-08 17:38:20,799 ERROR \U0001f4e7 \u274c Admin success email failed for OrderID=order_R2niGJKqjBvitH
+2025-08-08 17:38:20,799 ERROR \U0001f4e7 \u274c User success email failed for OrderID=order_R2niGJKqjBvitH
+2025-08-08 17:38:57,919 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 17:38:59,822 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 17:39:00,098 ERROR \u274c Failed to send admin email (payment_verified): HTTP Error 401: Unauthorized
+2025-08-08 17:39:00,354 ERROR \u274c Failed to send user success email: HTTP Error 403: Forbidden
+2025-08-08 17:39:00,354 ERROR \U0001f4e7 \u274c Admin success email failed for OrderID=order_R2niGJKqjBvitH
+2025-08-08 17:39:00,354 ERROR \U0001f4e7 \u274c User success email failed for OrderID=order_R2niGJKqjBvitH
+2025-08-08 18:10:08,853 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 18:12:49,647 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 18:14:52,640 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 18:15:10,795 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 18:23:48,109 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 18:23:50,699 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 18:23:51,516 ERROR \u274c Failed to send admin email (payment_verified): HTTP Error 401: Unauthorized
+2025-08-08 18:23:51,821 ERROR \u274c Failed to send user success email: HTTP Error 401: Unauthorized
+2025-08-08 18:23:51,821 ERROR \U0001f4e7 \u274c Admin success email failed for OrderID=order_R2niGJKqjBvitH
+2025-08-08 18:23:51,821 ERROR \U0001f4e7 \u274c User success email failed for OrderID=order_R2niGJKqjBvitH
+2025-08-08 18:40:08,554 INFO \u2705 Payment verified: OrderID=order_R2niGJKqjBvitH, PaymentID=pay_R2njw1qCcGFfUQ
+2025-08-08 18:40:10,754 INFO \U0001f4cb Order details retrieved: {'name': 'Basil Sabu', 'email': 'basilsabu268@gmail.com', 'amount_usd': 0.02, 'amount_inr': 1.75, 'commission': 0.04, 'gst': 0.01, 'total_amount': 1.79}
+2025-08-08 18:40:12,202 INFO \u2705 Admin email sent successfully - Type: payment_verified, Status Code: 202
+2025-08-08 18:40:13,183 INFO \u2705 User success email sent to basilsabu268@gmail.com - Status Code: 202
+2025-08-08 18:40:13,183 INFO \U0001f4e7 \u2705 Admin success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 18:40:13,183 INFO \U0001f4e7 \u2705 User success email sent for OrderID=order_R2niGJKqjBvitH
+2025-08-08 18:41:07,129 WARNING Bad Request: /api/create-payment/
+2025-08-08 18:41:12,277 INFO Order created: name=theertha email=anju@gmail.com USD=200.0 INR=233.0 Commission=2.0 GST=233.0 Total=455.0 OrderID=order_R2qt7rzCVz4dnm
+2025-08-08 18:41:12,975 INFO Confirmation email sent to anju@gmail.com and Basil
+2025-08-08 18:41:13,521 INFO \u2705 Admin email sent successfully - Type: payment_created, Status Code: 202
+2025-08-08 18:41:34,521 INFO Order created: name=theertha email=basilsabu268@gmail.com USD=200.0 INR=233.0 Commission=2.0 GST=233.0 Total=455.0 OrderID=order_R2qtW71mrfrjom
+2025-08-08 18:41:35,326 INFO Confirmation email sent to basilsabu268@gmail.com and Basil
+2025-08-08 18:41:35,849 INFO \u2705 Admin email sent successfully - Type: payment_created, Status Code: 202
+2025-08-08 18:44:50,603 INFO C:\Users\theer\Documents\GitHub\advolcano\payments_razorpay\views.py changed, reloading.
+2025-08-08 18:45:02,257 INFO Order created: name=theertha email=basilsabu268@gmail.com USD=200.0 INR=233.0 Commission=2.0 GST=233.0 Total=455.0 OrderID=order_R2qxAxihdBk7YN
+2025-08-08 18:45:02,798 INFO Admin email sent successfully
+2025-08-08 18:46:00,923 INFO Demo request from alice@example.com
+2025-08-08 18:46:02,068 ERROR Background email sending failed: HTTP Error 401: Unauthorized
+2025-08-08 18:46:33,668 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 18:46:38,469 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 18:46:43,892 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 18:46:50,069 INFO Demo request from alice@example.com
+2025-08-08 18:46:51,207 ERROR Background email sending failed: HTTP Error 403: Forbidden
+2025-08-08 18:46:52,314 INFO Demo request from alice@example.com
+2025-08-08 18:46:53,050 ERROR Background email sending failed: HTTP Error 403: Forbidden
+2025-08-08 18:48:15,082 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 18:48:19,388 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 18:48:25,334 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 18:48:29,106 INFO Demo request from alice@example.com
+2025-08-08 18:48:30,241 ERROR Background email sending failed: HTTP Error 403: Forbidden
+2025-08-08 18:48:30,932 INFO Demo request from alice@example.com
+2025-08-08 18:48:31,409 ERROR Background email sending failed: HTTP Error 403: Forbidden
+2025-08-08 18:48:32,053 INFO Demo request from alice@example.com
+2025-08-08 18:48:32,533 ERROR Background email sending failed: HTTP Error 403: Forbidden
+2025-08-08 18:48:33,079 INFO Demo request from alice@example.com
+2025-08-08 18:48:33,556 ERROR Background email sending failed: HTTP Error 403: Forbidden
+2025-08-08 18:52:13,519 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 18:52:30,559 INFO Demo request received from alice@example.com for Advertising Campaign
+2025-08-08 18:52:30,827 INFO Email queued for sending to basilsabu268@gmail.com
+2025-08-08 18:52:32,058 ERROR Background email sending failed: HTTP Error 403: Forbidden
+2025-08-08 18:52:32,058 ERROR Error type: ForbiddenError
+2025-08-08 18:52:32,058 INFO API Key present (starts with): SG.GvliHOf...
+2025-08-08 18:52:58,043 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 18:53:21,520 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 18:53:38,547 INFO Demo request received from alice@example.com for Advertising Campaign
+2025-08-08 18:53:38,761 INFO Email queued for sending to theerthakk467@gmail.com
+2025-08-08 18:53:39,388 INFO Email sent successfully. Status: 202
+2025-08-08 18:53:39,390 INFO Response headers: Server: nginx
+Date: Fri, 08 Aug 2025 13:23:39 GMT
+Content-Length: 0
+Connection: close
+X-Message-Id: MS5-H-ozR2KA99GB9GoVMw
+Access-Control-Allow-Origin: https://sendgrid.api-docs.io
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Authorization, Content-Type, On-behalf-of, x-sg-elas-acl
+Access-Control-Max-Age: 600
+X-No-CORS-Reason: https://sendgrid.com/docs/Classroom/Basics/API/cors.html
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: frame-ancestors 'none'
+Cache-Control: no-cache
+X-Content-Type-Options: no-sniff
+Referrer-Policy: strict-origin-when-cross-origin
+
+
+2025-08-08 18:54:34,127 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.
+2025-08-08 18:54:56,775 INFO C:\Users\theer\Documents\GitHub\advolcano\demo\views.py changed, reloading.

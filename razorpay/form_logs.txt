@@ -1,6 +1,0 @@
-Name: theertha, Email: theerthakk467@gmail.com, Phone: 7560822172
-Name: theertha, Email: theerthakk467@gmail.com, Phone: 7560822172
-Name: theertha, Email: theerthakk467@gmail.com, Phone: 7560822172, USD: 100.00
-UUID: 8b695b3d-0fd1-4d8d-b2ab-8363ae016c45, Name: theertha, Email: theerthakk467@gmail.com, Phone: 7560822172, USD: 100.00
-UUID: 6c7c2e05-55c7-4d8b-bcce-cdda8b427149, Name: theertha, Email: theerthakk467@gmail.com, Phone: 7560822172, USD: 100.0, INR: 8315.0
-UUID: 91792032-b002-4f5a-afae-412b46236c97, Name: theertha, Email: theerthakk467@gmail.com, Phone: 7560822172, USD: 100.00

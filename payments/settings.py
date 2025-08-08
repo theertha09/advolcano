@@ -11,6 +11,15 @@ https://docs.djangoproject.com/en/5.2/ref/settings/
 """
 
 from pathlib import Path
+import os
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+
+LOGGING_DIR = os.path.join(BASE_DIR, 'logs')
+
+
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -37,8 +46,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'razorpay',
+    'payments_razorpay',
     'rest_framework',
+    'demo',
 
 ]
 
@@ -70,6 +80,9 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'payments.wsgi.application'
+
+RAZORPAY_KEY_ID = 'rzp_test_tgfXXfzhjjdkYx'
+RAZORPAY_KEY_SECRET = '13z5OpJYPLgLhI0CHyMR6Fu9'
 
 
 # Database

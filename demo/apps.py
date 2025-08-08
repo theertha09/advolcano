@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class RazorpayConfig(AppConfig):
+class DemoConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'razorpay'
+    name = 'demo'

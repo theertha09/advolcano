@@ -726,7 +726,7 @@ Advolcano.io Payments Team
                 sg = SendGridAPIClient(SENDGRID_API_KEY)
                 message = Mail(
                     from_email=FROM_EMAIL,
-                    to_emails=["admin@advolcano.io", "theerthakk467@gmail.com"],  # Admin + Basil
+                    to_emails=["finance@zimzel.net"],  
                     subject=subject,
                     plain_text_content=email_body
                 )

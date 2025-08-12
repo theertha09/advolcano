@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 
 # Replace these with environment variables in production!
 SENDGRID_API_KEY = settings.SENDGRID_API_KEY
-ADMIN_EMAIL = 'theerthakk467@gmail.com'
+ADMIN_EMAIL = 'sales@advolcano.io'
 # Use verified sender email - change this to your verified SendGrid sender
 VERIFIED_SENDER_EMAIL = 'noreply@advolcano.io'  # Must be verified in SendGrid
 

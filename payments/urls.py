@@ -9,4 +9,6 @@ urlpatterns = [
 
     # Demo request/mail endpoints
     path('api/', include('demo.urls')),
+
+    path('api/', include('contact.urls')),
 ]
